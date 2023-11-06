@@ -1,0 +1,27 @@
+[
+    {
+        "Name":"Pavithra S",
+        "age":24,
+        "Destignation":"Full Stack Developer"
+    },
+    {
+        "Name":"Surya S",
+        "age":24,
+        "Destignation":"Full Stack Developer"
+    },
+    {
+        "Name":"Vidhya S",
+        "age":24,
+        "Destignation":"Full Stack Developer"
+    },
+    {
+        "Name":"Banu S",
+        "age":24,
+        "Destignation":"Full Stack Developer"
+    },
+    {
+        "Name":"Moni S",
+        "age":24,
+        "Destignation":"Full Stack Developer"
+    }
+]
